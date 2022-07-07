@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Extraindo_jogo.src.Entites
 {
-    public class Hero
+    public abstract class Hero
     {
         public Hero(string Name,int Level,string HeroType){
             this.Name = Name;
@@ -13,7 +13,7 @@ namespace Extraindo_jogo.src.Entites
             this.HeroType = HeroType;
         }
 
-        public string Name;
+        public string Name; 
         public int Level;
         public string HeroType;
 
