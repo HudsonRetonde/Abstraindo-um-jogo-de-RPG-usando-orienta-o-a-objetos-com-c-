@@ -6,9 +6,9 @@ using Extraindo_jogo.src.Entites;
 
 namespace Extraindo_jogo.src.Entities
 {
-    public class Wizard : Hero
+    public class Pegasu : Hero
     {
-        public Wizard(string Name, int Level, string HeroType) : base(Name, Level, HeroType)
+        public Pegasu(string Name, int Level, string HeroType) : base(Name, Level, HeroType)
         {
             this.Name = Name;
             this.Level = Level;
@@ -16,14 +16,14 @@ namespace Extraindo_jogo.src.Entities
         }
 
         public override string Attack(){
-            return this.Name + " Lançou magia!";
+            return this.Name + " Lançou ataque!";
         }
         public string Attack(int Bonus){
 
             if (Bonus > 6) {
-                return this.Name + " Lançou Magia super efetiva com bonus de " + Bonus;     
+                return this.Name + " Meteoro de Pegasuuuuuu! Receba meus meteoros!!! " + Bonus;     
             } else {
-                return this.Name + " Lançou uma magia com força fraca! Com bonus de " + Bonus;
+                return this.Name + " Meteoro de Pegasuuuuuu! Não pode ser! Meus meteoros não estão surtindo efeito!!! " + Bonus;
             }
                      
         }
