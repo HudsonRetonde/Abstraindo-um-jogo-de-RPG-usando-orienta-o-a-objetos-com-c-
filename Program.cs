@@ -13,7 +13,7 @@ namespace dotenet___poo
             Dragao shiryu = new Dragao("Shiryu", 23, "Cavaleiro de Dragão");
             Andromeda shun = new Andromeda("Shun", 23, "Cavaleiro de Andrômeda");
             Cisne hyoga = new Cisne("Hyoga", 23, "Cavaleiro de Cisne");
-            Fenix ikki = new Fenix("Ikke", 23, "Cavaleiro de Andrômeda");
+            Fenix ikki = new Fenix("Ikke", 30, "Cavaleiro de Fênix");
             
           
 
