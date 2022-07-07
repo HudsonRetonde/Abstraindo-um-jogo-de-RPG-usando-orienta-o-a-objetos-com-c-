@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Toshiba\\Documents\\Mentoria\\Extraindo jogo\\Extraindo jogo.csproj",
+      "projectUniqueName": "C:\\Users\\Toshiba\\Documents\\Mentoria\\Extraindo jogo\\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\\Extraindo jogo.csproj",
       "projectName": "Extraindo jogo",
-      "projectPath": "C:\\Users\\Toshiba\\Documents\\Mentoria\\Extraindo jogo\\Extraindo jogo.csproj",
+      "projectPath": "C:\\Users\\Toshiba\\Documents\\Mentoria\\Extraindo jogo\\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\\Extraindo jogo.csproj",
       "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Toshiba\\Documents\\Mentoria\\Extraindo jogo\\obj\\",
+      "outputPath": "C:\\Users\\Toshiba\\Documents\\Mentoria\\Extraindo jogo\\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config"

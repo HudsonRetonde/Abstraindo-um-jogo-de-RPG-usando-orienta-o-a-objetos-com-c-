@@ -1,0 +1,15 @@
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\bin\Debug\net6.0\Extraindo jogo.exe
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\bin\Debug\net6.0\Extraindo jogo.deps.json
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\bin\Debug\net6.0\Extraindo jogo.runtimeconfig.json
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\bin\Debug\net6.0\Extraindo jogo.dll
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\bin\Debug\net6.0\Extraindo jogo.pdb
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\Extraindo jogo.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\Extraindo jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\Extraindo jogo.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\Extraindo jogo.AssemblyInfo.cs
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\Extraindo jogo.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\Extraindo jogo.dll
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\refint\Extraindo jogo.dll
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\Extraindo jogo.pdb
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\Extraindo jogo.genruntimeconfig.cache
+C:\Users\Toshiba\Documents\Mentoria\Extraindo jogo\Abstraindo-um-jogo-de-RPG-usando-orienta-o-a-objetos-com-c-\obj\Debug\net6.0\ref\Extraindo jogo.dll
